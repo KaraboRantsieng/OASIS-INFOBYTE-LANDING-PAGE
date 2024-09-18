@@ -16,14 +16,14 @@ body {
     background-color: #000;
 }
 
-/* Container */
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
 }
 
-/* Header */
+
 header {
     background-color: #000000;
     padding: 20px 0;
@@ -59,7 +59,6 @@ header nav ul li a:hover {
     color: #ff0066;
 }
 
-/* Hero Section */
 .hero {
     background: url('hover.jpg') no-repeat center center/cover;
     color: #fff;
@@ -96,7 +95,7 @@ header nav ul li a:hover {
     transform: scale(1.05);
 }
 
-/* Features Section */
+
 .features {
     background-color: #1a1a1a;
     padding: 60px 0;
@@ -133,7 +132,7 @@ header nav ul li a:hover {
     color: #ccc;
 }
 
-/* Testimonials Section */
+
 .testimonials {
     background-color: #292929;
     padding: 60px 0;
@@ -171,7 +170,7 @@ header nav ul li a:hover {
     color: #ff0066;
 }
 
-/* CTA Section */
+
 .cta {
     background-color: #ff0066;
     color: white;
@@ -190,7 +189,7 @@ header nav ul li a:hover {
     margin-bottom: 30px;
 }
 
-/* Footer */
+
 footer {
     background: url('pexels-adrien-olichon-1257089-2387793.jpg') no-repeat center center/cover;
     color: white;
@@ -223,7 +222,7 @@ footer nav ul li {
 
 /* Responsive Design */ 
 @media (max-width: 768px) {
-    /* Your responsive styles go here */
+
 }
 
 
